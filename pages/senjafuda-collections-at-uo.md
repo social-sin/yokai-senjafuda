@@ -1,7 +1,7 @@
 ---
 title: Senjafuda Collections at UO
 layout: about
-permalink: /senjafuda-collections-at-uo-.html
+permalink: /senjafuda-collections-at-uo.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
