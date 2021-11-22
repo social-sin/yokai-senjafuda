@@ -2,7 +2,7 @@
 
 This site is a demonstration of learning how to use CollectionBuilder-gh.
 
-View the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
+View the [demo site](https://social-sin.github.io/collectionbuilder-demo/).
 
 The demo uses items from the University of Oregon's [Yōkai Senjafuda](https://glam.uoregon.edu/yokaisenjafuda/page/welcome) digital exhibit, which is worth a visit!)
 
