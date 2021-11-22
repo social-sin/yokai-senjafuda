@@ -7,21 +7,10 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+This digital exhibition focuses on tiny slips of paper—senjafuda 千社札—that depict Japanese ghosts and monsters—yōkai 妖怪. Both senjafuda and yōkai have their roots in Japanese popular culture in the early modern period (17th-19th centuries), and both continue to cast a spell on viewers today.
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+The phenomenon of senjafuda dates back to the late 18th century. They were originally made by pilgrims to paste on the walls of temples and shrines as a sort of devotional graffiti. Later they became collector’s items, and by the middle of the 19th century they had become miniature masterpieces of woodblock printed art. Senjafuda depict a dizzying variety of themes with meticulous craftsmanship and vivid, stylish graphic design.
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+Yōkai simply means “monster,” but it’s best understood as referring specifically to monsters (and sometimes ghosts) as imagined in early modern Japan, particularly as depicted in wood-block prints. From Mizuki Shigeru to Studio Ghibli, from The Ring to Yōkai Watch, Japanese popular culture (including anime, manga, books, and film) is full of yōkai imagery.
 
-## About the Collection
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The University of Oregon’s collection of senjafuda is one of the largest in the world. It includes many senjafuda depicting yōkai. This exhibit uses senjafuda to explore yōkai culture, and yōkai to explore senjafuda culture.
