@@ -16,4 +16,4 @@ There are two parts to the UO collection of senjafuda: the Starr collection and 
 
 Find out more about the history and nature of these collections by following the links above.
 
-{% include feature/nav-menu.html sections="The Starr Collection;The Shōbundō collection" %}
+{% if page.credits == true %}{% include cb/credits.html %}{% endif %}
