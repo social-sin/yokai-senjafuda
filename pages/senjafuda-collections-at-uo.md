@@ -1,6 +1,6 @@
 ---
 title: Senjafuda Collections at UO
-layout: senjafuda collections at UO
+layout: page
 permalink: /senjafuda-collections-at-uo-.html
 # include CollectionBuilder info at bottom
 credits: true
