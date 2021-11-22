@@ -5,14 +5,6 @@ View the [demo site](https://social-sin.github.io/collectionbuilder-demo/).
 
 The demo uses items from the University of Oregon's [Yōkai Senjafuda](https://glam.uoregon.edu/yokaisenjafuda/page/welcome) digital exhibit, which is worth a visit!)
 
-Metadata is drawn from the following Google Sheet:
-
-- [Psychiana Digital Collection Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
-
-Objects are collected in this zip file: 
-
-- [Psychiana Digital Collection Media Files](https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip) (Includes image files, pdfs, and mp3s)
-
 ## Notes
 
 Pages
@@ -49,6 +41,16 @@ Pages
 - Glossary
 - Bibliography
 - Credits
+
+
+Metadata is drawn from the following Google Sheet:
+
+- [Yōkai Senjafuda Digital Collection Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
+
+
+Objects are collected in this zip file: 
+
+- [Yōkai Senjafuda Digital Collection Media Files](https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip) (Includes image files, pdfs, and mp3s)
 
 
 # collectionbuilder-gh
