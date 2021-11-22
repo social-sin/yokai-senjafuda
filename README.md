@@ -1,5 +1,4 @@
 # collectionbuilder-demo
-
 This site is a demonstration of learning how to use CollectionBuilder-gh.
 
 View the [demo site](https://social-sin.github.io/collectionbuilder-demo/).
@@ -14,10 +13,45 @@ Objects are collected in this zip file:
 
 - [Psychiana Digital Collection Media Files](https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip) (Includes image files, pdfs, and mp3s)
 
+## Notes
+
+Pages
+- Welcome
+- Senjafuda Collections at UO
+  - The Starr Collection
+  - The Shōbundō collection
+- The World of Senjafuda
+  - Pasting Senjafuda
+    - Origins and Offers
+    - Pasting and Play
+  - Exchanging Senjafuda
+    - Exchanging
+    - Collecting and Appreciating
+    - Nostalgia
+  - Imagining the Collector
+    - Collectors and Foxes
+    - Collectors and Tengu
+    - Collectors and Oni
+- The World of Yōkai
+  - Yōkai, Collectively
+    - Night Parade of A Hundred Demons
+    - A Boardgame
+    - Matchbox Label Series
+    - A Senjafuda Yōkai Series
+    - Tattoos in Print
+  - Yōkai, Individually
+    - Kappa
+    - Cats
+    - Foxes
+    - Tengu
+    - Oni
+- Browse
+- Glossary
+- Bibliography
+- Credits
 
 
 # collectionbuilder-gh
-
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
