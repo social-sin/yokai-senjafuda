@@ -91,6 +91,3 @@ The Jordan Schnitzer Museum of Art is committed to making its collection, buildi
 
 # Contact
 Submit your comments or questions to [digitalscholarship@uoregon.edu](mailto:digitalscholarship@uoregon.edu).
-
-
-{% if page.credits == true %}{% include cb/credits.html %}{% endif %}
