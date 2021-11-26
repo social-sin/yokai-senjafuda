@@ -14,7 +14,7 @@ credits: true
 
 
 # About
-This digital exhibition is the result of a collaboration led by **[Glynne Walley** (Associate Professor of East Asian Languages and Literature)](https://eall.uoregon.edu/profile/glynne/), the University of Oregon Libraries, and the Jordan Schnitzer Museum of Art, with individual contributions by members of both institutions (see below). 
+This digital exhibition is the result of a collaboration led by [**Glynne Walley** (Associate Professor of East Asian Languages and Literature)](https://eall.uoregon.edu/profile/glynne/), the University of Oregon Libraries, and the Jordan Schnitzer Museum of Art, with individual contributions by members of both institutions (see below). 
 
 Although this is a collaborative project, the intellectual content is primarily Glynne Walley’s, and it does not necessarily represent the views of the University of Oregon, the University of Oregon Libraries, or the Jordan Schnitzer Museum of Art.
 
