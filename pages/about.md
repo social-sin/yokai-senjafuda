@@ -1,6 +1,6 @@
 ---
 title: Credit
-layout: credit
+layout: about
 permalink: /credit.html
 # include CollectionBuilder info at bottom
 credits: true
