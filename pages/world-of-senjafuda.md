@@ -24,7 +24,7 @@ Alternatively, a single slip may contain a self-contained design but be designed
 
 Below are three slips from a series of seasonal motifs. The purple square at the top of each slip contains the daimei in calligraphy; the orange square behind it identifies the season. The slip on the left (“summer”) shows Shōki being startled by Kintarō (a boy of legendary strength who figures in medieval folk tales). The one in the middle (“summer”) shows a large fan and a mask (possibly a beshimi mask from the noh theater, often used for monsters). The one on the right (“autumn”) shows another mask, a hannya or demoness from the noh theatrical tradition, with a striped cane often used as a prop by actors wearing this mask. Each slip may be appreciated on its own or collectively, as part of a playful representation of seasonal motifs (in which yōkai play only a small part).
 
-# Pasting Senjafuda
+## Pasting Senjafuda
 
 {% include feature/nav-menu.html sections="Origins and Offerings; Pasting and Play; References" %}
 
@@ -32,7 +32,7 @@ Senjafuda have their roots in religious observance. The ja 社 in senjafuda 千�
 
 The first slip above relates to Inari worship, and therefore has Shintō connections. The most recognizable is the distinctive double-linteled torii gate seen before every Shrintō shrine (here we’re looking through several in a row). The slip on the right is a representation of the Buddhist conception of Hell, with King Enma judging newly-dead sinners. The swastika-like design on Enma’s desk is an ancient Buddhist symbol still widely used today (and should not be confused with the Nazi swastika)!
 
-## Origins and Offerings
+##### Origins and Offerings
 The practice of pasting senjafuda can be thought of as a specialized variant of the practice of giving offerings to seek blessings or accrue spiritual merit. An offering can be as simple as a few coins tossed into the offertory box found at the threshold of a shrine before praying to the god worshipped there. Or it can be as complicated as copying out an entire Buddhist sutra by hand and presenting it to a temple (a common form of devotion in premodern times). Buildings, icons, and furnishings are commonly presented or funded as offerings, often with the donor or donors identified by name in recognition of their devotion.
 
 One common form of offering is the ema 絵馬, a kind of devotional plaque. Ema literally means “picture horse,” a name that nods to the legendary history of the practice. Anciently, horses were given as gifts to shrines, but then pictures of horses came to be substituted for the real thing; eventually these pictorial offerings came to depict other themes than horses. Ema can take the form of large paintings on wood of religious or historical themes, commissioned by devotees and presented to temples or shrines for display in special buildings. They can also take the form of small wooden plaques with a simple pictorial design unique to each temple or shrine; devotees can buy the ema at the temple or shrine, write a prayer on the back, and hang it at a designated spot on the temple or shrine grounds (or keep the plaque as a souvenir). Ema are a common motif in pictorial senjafuda, perhaps to remind collectors of the larger tradition of votive offerings of which senjafuda are a part. The Starr collection contains senjafuda reproducing large painted ema and many, many slips depicting the smaller ema sold at temples and shrines.
@@ -41,7 +41,7 @@ The two senjafuda above depict large painted ema. The one on the left shows the 
 
 The next three all depict the smaller ema sold at temples and shrines. The first one shows two children, presumably on their way back from a visit to an Inari shrine; the one on the right holds a small fox figurine on a stand, while the one on the left shoulders a wooden plaque with two foxes drawn on it. Incidentally, this is a one-chō senjafuda divided into four quarter-size slips; the top two are occupied by the picture of the children, while the bottom two are devoted to separate daimei, and the one on the bottom right is framed as a large presentational ema would be. The next slip shows an ema belonging to the Kijin Shrine; ema produced by the shrine sport this distinctively sketchy pair of oni. The final slip shows another Kijin ema along with one depicting a sumo match (sumo wrestling also has historical connections with Shintō worship), against a background design of ema shapes.
 
-## Pasting and Play
+##### Pasting and Play
 Symbolically, at least, an ema represents a gift of something of value to a shrine or temple: a horse, or a valuable picture, or simply the money given in exchange for the plaque. Senjafuda, in their earliest form, were meant to represent something else: the devotee himself or herself. Early accounts of the practice extol the virtues of the daimei, which originally meant not the pseudonym itself but rather the practice of writing one’s name and address on a piece of paper and leaving it at a shrine or temple. This was believed to function as a proxy for the worshipper, allowing the worshipper to physically leave the premises while the proxy (the slip) continued to hold a vigil at the place of worship. Of course, leaving one’s name-slip pasted to the wall of a building also let others know that one had made the pilgrimage, effectively boasting that, e.g., “Kōhei was here.”
 
 Early senjafuda pasting was considered a nuisance by religious institutions, akin to graffiti—and, indeed, some practitioners would simply write their daimei directly on the wall of a temple or shrine building. Temples and shrines discouraged the practice and city authorities tried to ban it, but seemingly with little success, for senjafuda culture was thriving by the end of the 18th century. In fact, the prohibitions only seemed to increase enthusiasm for the practice, as senjafuda pilgrims began to compete to place slips in forbidden places, or in spots where priests would be unlikely to notice them or unable to take them down. Senjafuda aficionados even developed specialized tools (long poles with brushes attached to the end) to help them paste slips in hard-to-reach places.
@@ -58,16 +58,15 @@ As Takiguchi Masaya argues,[1] this spirit of play was part of senjafuda practic
 
 The slip above—already discussed above as a depiction of pasting activities—is also an expression of the social aspect of senjafuda pasting culture. The pair of pipe-smokers at the right lend an air of camaraderie to the scene, while the plum blossoms emphasize the recreational nature of this outing. This slip can be dated with some certainty, because the man writing on the gate is actually writing, not his name (as the viewer is meant to assume at first glance) but “Spring, Year of the Horse.” Based on the daimei included in the slip, this should be either 1858 or 1870. Note that five men are depicted in the scene, but in the colophon at top right, only four daimei are included. The fifth man is probably identified in the rightmost panel of the colophon, which says “made to order by Gengyo.” Baisotei Gengyo 梅素亭玄魚 (1817-1880) was a print designer and author active in a variety of popular fields in the late Edo and early Meiji years; he was also a key figure in senjafuda culture in that era, under the daimei Takisa 田キサ. The man with the pasting pole appears to have just finished pasting a senjafuda that reads Takisa, suggesting that Gengyo himself is the fifth member of this party, and has self-effacingly placed his daimei in miniature within the illustration instead of in large characters with those of the other four men.
 
-## References
+##### References
 [1] Takiguchi Masaya 滝口正哉, Senjafuda ni miru Edo no shakai 千社札にみる江戸の社会 (Tokyo: Dōseisha, 2008).
 
-# Exchanging Senjafuda
 
-{% include feature/nav-menu.html sections="Exchanging; Collecting and Appreciating; Nostalgia; References" %}
 
+## Exchanging Senjafuda
 The act of pasting senjafuda on temple or shrine walls incorporated a spirit of play into what was at least nominally a religious activity. With the arrival of senjafuda for exchange, that spirit of play came to dominate—although the ties to pilgrimage and worship were never entirely forgotten.
 
-## Exchanging
+##### Exchanging
 Contemporary accounts of senjafuda mention exchange meetings happening by the end of the 18th century. In other words, by the 1790s people who were making slips to paste up at religious institutions were also getting together with like-minded people at tea shops or restaurants to trade those slips with each other. By the 1830s, this led to the formation of organized clubs—called ren 連—of senjafuda aficionados. These groups would not only exchange slips with each other, they would hold large meetings at which they would exchange slips with other groups.
 
 Slips meant for pasting continued to be mostly simple monochrome objects, but as collecting and trading slips became the focus of most aficionados' attention, specially designed “exchange slips” (kōkanfuda 交換札) developed. Exchange slips were meant to be appreciated up close rather than glimpsed from afar, and so more attention was paid to their design elements and workmanship.
@@ -80,7 +79,7 @@ On this page are two depictions of senjafuda exchange meetings. The one above de
 
 The second depiction of an exchange meeting (above) is actually the left four chō of an eight-chō print (the full piece is reproduced in Sekioka 1983).[1] The print depicts an exchange meeting that took place on October 15, 1861; the illustration is by Utagawa Hiroshige II (1826-69), pupil of the first Hiroshige. As on the earlier print, the artist has added circles labeling many of the participants. Note that women are depicted as being among the participants.
 
-## Collecting and Appreciating
+##### Collecting and Appreciating
 Play is key to understanding the way yōkai are used in senjafuda. Beauty, a pleasing design rendered with fine workmanship, was of course important to senjafuda, just as it was in woodblock prints. But, again like woodblock prints, senjafuda designs were full of creative references to other cultural phenomena: poems, plays, fashions, books, historical events, customs, tourist attractions, legends, and many other artifacts of material or narrative culture. 
 
 Yōkai, for example, feature in senjafuda both because they were popular and attractive motifs in their own right and also because they allowed artists and collectors to make witty references to well-known stories, plays, works of art, or other phenomena that a viewer of the time might be expected to recognize. We might think of senjafuda as the early modern woodblock-printed equivalent of internet memes. And just like internet memes, senjafuda can be difficult to fully understand for someone removed from the context of their initial creation.
@@ -93,7 +92,7 @@ The third design is even simpler. It shows cute little mice, and it’s called �
 
 There’s one more reference to unpack here. The entire series is quite possibly a reference to a well known picture book from 1784 called Tanagui awase, or The Hand-Towel Contest. It purports to chronicle a party at which various authors, illustrators, courtesans, and other luminaries of the Floating World each displayed hand towels whose original designs made just the kind of complicated, playful, and elegant references found in the textile designs we’ve been discussing. It’s unclear whether such a party actually took place; perhaps, like the textile designs, the hand-towel patterns only ever existed as illustrations. In any case, the book has been celebrated ever since as a classic example of Floating World chic. Our undated series of textile designs is acknowledging its inspiration, while adapting its ideas to new jokes and a new format: the senjafuda series.
 
-## Nostalgia
+##### Nostalgia
 The previous sections explain essentially the way senjafuda have been made and used from the early 19th century right up to the present day. That is, they were and are privately published miniature works of art, commissioned by collectors but drawn and printed by specialists in the craft of woodblock printing. One more key change happened in senjafuda between the early modern period and today, however: they became an expression of nostalgia.
 
 Senjafuda exchange and collecting continued to grow in popularity over the course of the 19th century, despite or perhaps in some ways because of the immense transformations Japanese society was undergoing in this era. The Meiji Period (1868-1912) was, as any student of Japanese history knows, the period when everything changed, as the country scrambled to modernize after two centuries or more of relative isolation during which the West experienced an industrial revolution that left Japan far behind. Government, education, industry, defense, and many more aspects of national life were reorganized in ways inspired by (or in reaction to) Western colonial powers. The way people dressed and groomed themselves, the kinds of houses they lived in and buildings they worked in, even the language they spoke changed drastically and swiftly.
@@ -112,16 +111,15 @@ Isetatsu was the daimei of a woodblock printer in Kanda who did business under t
 
 Together the two slips speak volumes about the relationship between past and present in senjafuda culture. The slip on the left contains virtually nothing that marks it as a product of the 1920s or 1930s. The slip on the right, however, is a frank advertisement for a modern business, complete with the latest in contact information. The traditional flavor of the slip on the left functions as further advertisement for a shop that was already specializing in old-fashioned paper and printing methods: it was just good marketing for Isetatsu/Kikujudō to present itself as upholding traditional culture in the form of the Kanda Festival and its associated iconography. There’s even a bit of advertising/nostalgia-marketing involved in the fact that the Shōki float is rendered in red. As discussed elsewhere on this site, Shōki was a common motif in red-printed hōsōe 疱瘡絵, “smallpox pictures,” where the combination of red pigment and fierce motif was traditionally held to ward off smallpox in an era before modern medicine. Smallpox pictures, although not listed among Kikujudō’s wares on the right, would have been something an early modern printer sold. This further nod to tradition both reminded the viewer that Isetatsu was a printer and bolstered Isetatsu’s preservationist brand—something that, perhaps ironically for a contemporary viewer, only has meaning in a modern context.
 
-## References
+##### References
 [1] Sekioka Senrei 関岡扇令, ed. Edo korekushon: Senjafuda 江戸コレクション　千社札. Tokyo: Kodansha, 1983.
 
-# Imagining the Collector
 
-{% include feature/nav-menu.html sections="Collectors and Foxes; Collectors and Tengu; Collectors and Oni; References" %}
 
+## Imagining the Collector
 This section of the exhibit will make more sense if you’ve already read the sections called “Pasting senjafuda” and “Exchanging senjdafuda.” Here we’ll explore the playful, meme-like referentiality of senjafuda by showing how images of yōkai have been employed to comment on the history and nature of senjafuda culture and its participants. In particular we’ll be looking at images of foxes, tengu, and oni as they relate to senjafuda pasting and collecting; for general information and further depictions of these yōkai please follow the links above.
 
-## Collectors and Foxes
+##### Collectors and Foxes
 Foxes are easily the most common yōkai in the Starr collection of senjafuda, but they do not always appear in their yōkai form.
 
 Foxes in Japanese folklore and popular culture have three main aspects. One is as normal animals; the occasional golden or reddish fox seen in senjafuda may be acknowledgments of this. Another is as shape-shifting magical foxes; these are the classic foxes or kitsune of yōkai stories. The third is as servants of the god Inari, protector of agriculture and harvests. Like shape-shifting foxes, Inari-servant foxes are usually depicted as white, and are often accompanied by balls of flame or other indications of supernatural potency. Stone statues of foxes are usually found in front of Inari shrines, and Inari ema often feature illustrations of foxes.
@@ -156,7 +154,7 @@ Above is a scene of two men who have been taken in by foxes who are pretending t
 
 The scene above shows a stone fox statue in front of a series of shrine gates belonging to the Anamori Inari in Tokyo. The placement of the statue is unexpected, since typically such statues are found in pairs flanking the gate, not blocking the worshiper's way like this. The fox's inscrutable stare combines with the monochrome design of the print to lend an air of otherworldliness to an otherwise ordinary encounter.
 
-## Collectors and Tengu
+##### Collectors and Tengu
 If foxes are a nod to senjafuda’s historical roots in Inari worship, tengu are a nod toward a more legendary aspect of senjafuda history. In fact, tengu are probably the yōkai most intimately related to the history and self-conception of senjafuda practice, athough just how this is true is not always obvious to the untrained eye. It has to do with one of the most significant figures in senjafuda history, a man named Hagino Kinai Nobutoshi, but known in senjafuda circles as Tengu Kōhei.
 
 Tengu Kōhei was an 18th century samurai, and was said to have been born in either 1707 or 1717, which would put him at either 90 or 100 years of age at his death in 1817. A number of early accounts of senjafuda credit him with popularizing the practice beginning in the 1750s, when his lord sent him on a pilgrimage on behalf of his younger brother, who had smallpox. Historians such as Takiguchi Masaya suggest that, based on contemporary records, there were others who were more active than Tengu Kōhei was in this period, but it’s he who got celebrated later as the key figure in 18th century senjafuda. This might have been due to his social class: as a samurai, acting at first in an official capacity, he would have lent an air of official respectability to a pastime that ran afoul of officialdom on more than one occasion.
@@ -185,7 +183,7 @@ The third slip, for Daichin (or Ōchin) of the Hakkaku-ren, features the familia
 
 The fourth slip is a different copy of the Starr slip discussed on a previous page. The Starr collection understandably contains several copies of this slip.
 
-## Collectors and Oni
+##### Collectors and Oni
 Unlike foxes and tengu, oni have no intrinsic connection with the history of senjafuda. But the sheer frequency with which they occur as pictorial motifs in senjafuda ensures that at least some of their appearances will be self-referential. And indeed, there are several charming examples of oni interacting with senjafuda pasters or collectors, or with votive slips themselves.
 
 The slips above depict, from left to right:
