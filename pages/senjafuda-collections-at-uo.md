@@ -23,12 +23,12 @@ Starr amassed a huge collection of senjafuda both through his frequent attendanc
 
 Henry Smith has examined Starr's scholarly interest in Japan in detail, noting Starr's consistent attention to the religious dimension of culture—clearly visible in senjafuda, as this exhibition shows. Smith also notes that Starr's interest in “the social matrices in which these objects came to be collected, depicted, and exchanged in…distinctive subcultures of modern Japan” gives his work value in a contemporary context as well.[1] But Starr had an eye for phenomena that appealed to a playful as well as a scholarly bent. When asked by a reporter for a Japanese newspaper what his interests were, he reeled off a list that began with kappa and tengu.[2] It's no wonder, then, that yōkai are well represented in his senjafuda collection.
 
-## References
+##### References
 [1] Henry D. Smith II, “Folk Toys and Votive Placards: Frederick Starr and the Ethnography of Collector Networks in Taisho Japan,” from “Popular Imagery as Cultural Heritage: Aesthetical and Art Historical Studies of Visual Culture in Modern Japan,” Final Report, Grant-in-Aid for Scientific Research #20320020 (PI: KANEDA Chiaki), March 2012. (Page 11)
 
 [2] Undated newspaper clipping (ca. 1911) found in Collection of the Japanese colorprinted placards and greeting cards, called Nōsatsu or Senjafuda, volume 10 (folio 12 recto), Special Collections and University Archives, University of Oregon Libraries, Eugene, Oregon.
 
-# The Shōbundō Collection
+## The Shōbundō Collection
 The UO’s collection of senjafuda was augmented in 2017 by the acquisition of the Shōbundō senjafuda collection. This consists of slips and other materials primarily collected by Satō Masao 佐藤正夫 (1901-1982), a professional woodblock printer living in Yokohama who was a participant in senjafuda circles under the daimei (and shop name) Shōbundō 正文堂, and his son Ritsuzō 律三, also a printer and collector. The collection, donated to UO by Masao’s younger son Satō Shirō, includes around forty-five scrapbooks full of senjafuda produced over a period stretching from ca. 1885 to ca. 1990; thousands of unmounted slips from the same period; printing and pasting tools; photographs of senjafuda participants; and many other materials relating to senjafuda culture.
 
 While the Starr collection offers a nearly comprehensive look at senjafuda activities during the period Starr was in Japan and a valuable sample of materials produced during the prior decades, the Shōbundō collection allows us to examine senjafuda activities covering most of the 20th century, while augmenting our understanding of the Starr years in important ways. Its archive of tools, photographs, books, and other materials provide a perspective that slips alone can’t. Together these two collections are a matchless resource for research into senjafuda.
