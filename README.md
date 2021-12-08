@@ -7,12 +7,12 @@ The demo uses items from the University of Oregon's [Yōkai Senjafuda](https://g
 
 Metadata is drawn from the following Google Sheet:
 
-- [Yōkai Senjafuda Digital Collection Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
+- [Yōkai Senjafuda Digital Collection Metadata](https://docs.google.com/spreadsheets/d/1WnKHxT1zVdn8n8u5q_-DRSlZzKr0WHpVrApCwEvsnAE/edit?usp=sharing)
 
 
 Objects are collected in this zip file: 
 
-- [Yōkai Senjafuda Digital Collection Media Files](https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip) (Includes image files, pdfs, and mp3s)
+- [Yōkai Senjafuda Digital Collection Media Files](https://drive.google.com/file/d/10aXCFdBjULqRhjHh_GpFsEpsEpxogvmB/view?usp=sharing) (Includes image files, pdfs, and mp3s)
 
 ## Notes
 
