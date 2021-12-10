@@ -21,7 +21,7 @@ Find out more about the history and nature of these collections by following the
 ## The Starr Collection
 Frederick Starr (1858-1933) was an American anthropologist at the University of Chicago who visited Japan frequently between 1904 and 1933. His primary interest during his stays in Japan was the social networks of collectors who were focused on objects associated with the early modern era, particularly collectors of traditional toys and senjafuda. Starr, his traveling companion Manuel Gonzales, and his interpreter Maebashi Hanzan were prominent fixtures at numerous senjafuda exchange meetings in the early 20th century, and Starr became so associated with the senjafuda scene that the press gave him the nickname “Professor Votive Slip” (*Ofuda hakushi*). Starr also wrote a short book about the history of senjafuda that was published in English in 1917 as [*The Nosatsu Kai*](https://catalog.hathitrust.org/Record/000408900) and in Japanese (in a translation and adaptation by Fujisato Kōko) as Nōsatsu shi in 1921.
 
-{% include feature/image.html objectid="coll221" width="100" %} {% include feature/image.html objectid="coll222" width="100" %} {% include feature/image.html objectid="coll098" width="100" %} {% include feature/image.html objectid="coll086" width="100" %}
+{% include feature/image.html objectid="coll221;coll222;coll098;coll086" width="100" %}
 
 Starr amassed a huge collection of senjafuda both through his frequent attendance at exchange meetings and by procuring scrapbooks put together by other collectors. As a result of his persistence in acquiring senjafuda his collection not only thoroughly documents the years he was active in senjafuda (the 1910s to early 1930s), but also contains examples going back to the mid-19th century. After his death, his senjafuda collection was acquired by Gertrude Bass Warner (1863-1951), a traveler and collector of Japanese, Chinese, and Korean art and founder of the University of Oregon Art Museum (now the Jordan Schnitzer Museum of Art). The senjafuda mounted in scrapbooks (more than 50 of them) are now housed in [Special Collections and University Archives](https://library.uoregon.edu/special-collections) (University of Oregon Libraries), while the loose slips are housed in the [Jordan Schnitzer Museum of Art](https://jsma.uoregon.edu/).
 
@@ -39,6 +39,6 @@ While the Starr collection offers a nearly comprehensive look at senjafuda activ
 
 The Shōbundō collection has not yet been digitized, and so the majority of its contents were not available for this digital exhibition. However, as one might expect, yōkai are well represented in its contents, and we’re proud to feature a few of the postwar yōkai from the Shōbundō collection here.
 
-{% include feature/image.html objectid="coll029" width="100" %} {% include feature/image.html objectid="coll030" width="100" %} {% include feature/image.html objectid="coll031" width="100" %} {% include feature/image.html objectid="coll032" width="100" %}
+{% include feature/image.html objectid="coll029;coll030;coll031;coll032" width="100" %}
 
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}
