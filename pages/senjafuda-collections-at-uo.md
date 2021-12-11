@@ -41,10 +41,12 @@ The Shōbundō collection has not yet been digitized, and so the majority of its
 
 {% include feature/image.html objectid="coll029;coll030;coll031;coll032" width="100" %}
 
-{% include feature/image.html objectid="coll029;coll030" width="100" %}
+{% include feature/image.html objectid="coll270;coll271" width="100" %}
 
-{% include feature/image.html objectid="coll029;coll030;coll031;coll032" width="100" %}
+{% include feature/image.html objectid="coll272;coll273;coll274;coll275" width="100" %}
 
-{% include feature/image.html objectid="coll029;coll030;coll031;coll032" width="100" %}
+{% include feature/image.html objectid="coll081;coll082;coll084;coll083" width="100" %}
+
+{% include feature/image.html objectid="coll019" width="100" %}
 
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}
