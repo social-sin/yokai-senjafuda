@@ -30,8 +30,6 @@ Below are three slips from a series of seasonal motifs. The purple square at the
 
 ## Pasting Senjafuda
 
-{% include feature/nav-menu.html sections="Origins and Offerings; Pasting and Play; References" %}
-
 Senjafuda have their roots in religious observance. The ja 社 in senjafuda 千社札 refers to Shintō shrines, and there’s historical evidence that senjafuda culture grew out of devotion to the god Inari, a harvest god worshipped at thousands of shrines throughout Japan. But Buddhism is just as important to senjafuda culture as Shintō: slips were and are also pasted at Buddhist temples, and many senjafuda include Buddhist motifs.
 
 {% include feature/image.html objectid="coll041;coll025" width="100" %}
@@ -75,7 +73,7 @@ As Takiguchi Masaya argues,[1] this spirit of play was part of senjafuda practic
 The slip above—already discussed above as a depiction of pasting activities—is also an expression of the social aspect of senjafuda pasting culture. The pair of pipe-smokers at the right lend an air of camaraderie to the scene, while the plum blossoms emphasize the recreational nature of this outing. This slip can be dated with some certainty, because the man writing on the gate is actually writing, not his name (as the viewer is meant to assume at first glance) but “Spring, Year of the Horse.” Based on the daimei included in the slip, this should be either 1858 or 1870. Note that five men are depicted in the scene, but in the colophon at top right, only four daimei are included. The fifth man is probably identified in the rightmost panel of the colophon, which says “made to order by Gengyo.” Baisotei Gengyo 梅素亭玄魚 (1817-1880) was a print designer and author active in a variety of popular fields in the late Edo and early Meiji years; he was also a key figure in senjafuda culture in that era, under the daimei Takisa 田キサ. The man with the pasting pole appears to have just finished pasting a senjafuda that reads Takisa, suggesting that Gengyo himself is the fifth member of this party, and has self-effacingly placed his daimei in miniature within the illustration instead of in large characters with those of the other four men.
 
 ##### References
-[1] Takiguchi Masaya 滝口正哉, Senjafuda ni miru Edo no shakai 千社札にみる江戸の社会 (Tokyo: Dōseisha, 2008).
+[1] Takiguchi Masaya 滝口正哉, *Senjafuda ni miru Edo no shakai 千社札にみる江戸の社会* (Tokyo: Dōseisha, 2008).
 
 
 
@@ -100,6 +98,9 @@ On this page are two depictions of senjafuda exchange meetings. The one above de
 {% include feature/image.html objectid="coll092" width="100" %}
 
 The second depiction of an exchange meeting (above) is actually the left four chō of an eight-chō print (the full piece is reproduced in Sekioka 1983).[1] The print depicts an exchange meeting that took place on October 15, 1861; the illustration is by [Utagawa Hiroshige II](https://en.wikipedia.org/wiki/Hiroshige_II) (1826-69), pupil of the first Hiroshige. As on the earlier print, the artist has added circles labeling many of the participants. Note that women are depicted as being among the participants.
+
+##### References
+[1] Sekioka Senrei 関岡扇令, ed. *Edo korekushon: Senjafuda 江戸コレクション　千社札*. Tokyo: Kodansha, 1983.
 
 ##### Collecting and Appreciating
 Play is key to understanding the way yōkai are used in senjafuda. Beauty, a pleasing design rendered with fine workmanship, was of course important to senjafuda, just as it was in woodblock prints. But, again like woodblock prints, senjafuda designs were full of creative references to other cultural phenomena: poems, plays, fashions, books, historical events, customs, tourist attractions, legends, and many other artifacts of material or narrative culture. 
@@ -136,9 +137,6 @@ The pair of slips above exemplifies the nostalgia inherent in most modern senjaf
 Isetatsu was the daimei of a woodblock printer in Kanda who did business under the name Kikujudō. Founded in 1864, [Kikujudō's shop survives today](https://www.isetatsu.com/) and still specializes in printed matter with Edo-esque motifs. The slip on the right is an advertisement for Kikujudō’s products, listing various kinds of paper including chiyogami (patterned papers of the type used in origami and other crafts—Isetatsu’s specialty today), handheld fans of both folding and non-folding varieties (both made of paper attached to wooden frames), paper napkins, standing screens, calendars, paper toys, and woodblock printing services, as well as nishikie (full-color woodblock-printed art). The address of the shop is given at bottom left (Kanda Tachō 2-20) along with a telephone number (Kanda-1950).
 
 Together the two slips speak volumes about the relationship between past and present in senjafuda culture. The slip on the left contains virtually nothing that marks it as a product of the 1920s or 1930s. The slip on the right, however, is a frank advertisement for a modern business, complete with the latest in contact information. The traditional flavor of the slip on the left functions as further advertisement for a shop that was already specializing in old-fashioned paper and printing methods: it was just good marketing for Isetatsu/Kikujudō to present itself as upholding traditional culture in the form of the Kanda Festival and its associated iconography. There’s even a bit of advertising/nostalgia-marketing involved in the fact that the Shōki float is rendered in red. As discussed elsewhere on this site, Shōki was a common motif in red-printed hōsōe 疱瘡絵, “smallpox pictures,” where the combination of red pigment and fierce motif was traditionally held to ward off smallpox in an era before modern medicine. Smallpox pictures, although not listed among Kikujudō’s wares on the right, would have been something an early modern printer sold. This further nod to tradition both reminded the viewer that Isetatsu was a printer and bolstered Isetatsu’s preservationist brand—something that, perhaps ironically for a contemporary viewer, only has meaning in a modern context.
-
-##### References
-[1] Sekioka Senrei 関岡扇令, ed. Edo korekushon: Senjafuda 江戸コレクション　千社札. Tokyo: Kodansha, 1983.
 
 
 
