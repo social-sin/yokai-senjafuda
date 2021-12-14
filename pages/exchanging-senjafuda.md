@@ -1,6 +1,6 @@
 ---
 title: Exchanging Senjafuda
-layout: exchanging-senjafuda
+layout: page
 permalink: /exchanging-senjafuda.html
 # include CollectionBuilder info at bottom
 credits: false
