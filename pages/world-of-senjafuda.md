@@ -27,4 +27,6 @@ Below are three slips from a series of seasonal motifs. The purple square at the
 
 {% include feature/image.html objectid="coll192;coll258;coll157" width="100" %}
 
+{% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/the-sh%C5%8Dbund%C5%8D-collection.html" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/pasting-senjafuda.html" color="dark" %}
+
 <!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
