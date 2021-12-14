@@ -8,8 +8,6 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-:{% include feature/button.html text="Senjafuda Collections at UO" link="https://social-sin.github.io/collectionbuilder-demo/senjafuda-collections-at-uo.html" color="dark" %} {% include feature/button.html text="The Starr Collection" link="https://social-sin.github.io/collectionbuilder-demo/the-star-collection.html" color="dark" %} {% include feature/button.html text="The Shōbundō Collection" link="https://social-sin.github.io/collectionbuilder-demo/the-shōbundō-collection.html" color="dark" %}:
-
 ## Senjafuda Collections at UO
 The University of Oregon’s collection of senjafuda is one of the largest in the world. It encompasses nearly a hundred scrapbooks filled with senjafuda, several thousand unmounted senjafuda, plus tools, publications, and ephemera related to senjafuda activities. The oldest go back to the 1840s, if not farther (senjafuda are difficult to date with precision), while the most recent are from the 1990s. Some of the materials are held in the [Special Collections and University Archives](https://library.uoregon.edu/special-collections) in the [University of Oregon Libraries](https://library.uoregon.edu/), while others are held in the [Jordan Schnitzer Museum of Art](https://jsma.uoregon.edu/).
 
@@ -18,5 +16,5 @@ The University of Oregon’s collection of senjafuda is one of the largest in th
 There are two parts to the UO collection of senjafuda: the Starr collection and the Shōbundō collection. Many, though not all, of [the Starr materials have been digitized and uploaded to Oregon Digital](https://oregondigital.org/sets/gb-warner-nosatsu), and they're the focus of this digital exhibition. As of yet, none of the Shōbundō items have been digitized for Oregon Digital.
 
 Find out more about the history and nature of these collections by following the links above.
-
+ {% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/the-star-collection.html" color="dark" %}
 <!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
