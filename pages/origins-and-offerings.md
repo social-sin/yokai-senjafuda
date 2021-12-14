@@ -1,7 +1,7 @@
 ---
 title: Origins and Offerings
 layout: page
-permalink: /pasting-senjafuda.html
+permalink: /origins-and-offerings.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
