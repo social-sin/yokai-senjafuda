@@ -10,9 +10,9 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: https://glam.uoregon.edu/files/original/a1554251749eab4165f69157c4c219885999b1c4.jpg
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: # Default is 8em
+home-title-y-padding: 12em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: # Default is center
+home-banner-image-position: top # Default is center
 
 ##########
 # ITEM PAGE
@@ -80,8 +80,8 @@ navbar-background: bg-dark
 bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
-base-font-size: 1.2em
+base-font-size: 16px
 text-color: "#191919"
 link-color: "#17a2b8"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+base-font-family: Hina Mincho # comment out for bootstrap defaults. e.g. Roboto
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Hina+Mincho&family=Roboto:wght@300&display=swap" rel="stylesheet"> # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
