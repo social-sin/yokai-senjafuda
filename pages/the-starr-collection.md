@@ -22,4 +22,6 @@ Henry Smith has examined Starr's scholarly interest in Japan in detail, noting S
 
 [2] Undated newspaper clipping (ca. 1911) found in [*Collection of the Japanese colorprinted placards and greeting cards, called Nōsatsu or Senjafuda,* volume 10](https://oregondigital.org/catalog/oregondigital:df72cb72h) (folio 12 recto), Special Collections and University Archives, University of Oregon Libraries, Eugene, Oregon.
 
+{% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/senjafuda-collections-at-uo.html" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/the-sh%C5%8Dbund%C5%8D-collection.html" color="dark" %}
+
 <!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
