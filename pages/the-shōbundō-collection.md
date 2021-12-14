@@ -23,4 +23,6 @@ The Shōbundō collection has not yet been digitized, and so the majority of its
 
 {% include feature/image.html objectid="coll270;coll271;coll019" width="100" %}
 
+{% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/the-starr-collection.html" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/world-of-senjafuda.html" color="dark" %}
+
 <!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
