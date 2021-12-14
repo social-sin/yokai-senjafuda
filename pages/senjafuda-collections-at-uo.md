@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="The Shōbundō Collection;The Starr Collection" %}
+{% include feature/nav-menu.html sections="[Senjafuda Collections at UO](https://social-sin.github.io/collectionbuilder-demo/senjafuda-collections-at-uo.html);[The Shōbundō Collection](https://social-sin.github.io/collectionbuilder-demo/the-shōbundō-collection.html);[The Starr Collection](https://social-sin.github.io/collectionbuilder-demo/the-star-collection.html)" %}
 
 ## Senjafuda Collections at UO
 The University of Oregon’s collection of senjafuda is one of the largest in the world. It encompasses nearly a hundred scrapbooks filled with senjafuda, several thousand unmounted senjafuda, plus tools, publications, and ephemera related to senjafuda activities. The oldest go back to the 1840s, if not farther (senjafuda are difficult to date with precision), while the most recent are from the 1990s. Some of the materials are held in the [Special Collections and University Archives](https://library.uoregon.edu/special-collections) in the [University of Oregon Libraries](https://library.uoregon.edu/), while others are held in the [Jordan Schnitzer Museum of Art](https://jsma.uoregon.edu/).
