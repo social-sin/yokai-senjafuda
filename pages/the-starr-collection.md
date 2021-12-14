@@ -1,6 +1,6 @@
 ---
 title: The Starr Collection
-layout: the-starr-collection
+layout: page
 permalink: /the-star-collection.html
 # include CollectionBuilder info at bottom
 credits: false
