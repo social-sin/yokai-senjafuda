@@ -1,7 +1,7 @@
 ---
 title: The Starr Collection
 layout: page
-permalink: /the-star-collection.html
+permalink: /the-starr-collection.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
