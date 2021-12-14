@@ -1,6 +1,6 @@
 ---
 title: The Shōbundō Collection
-layout: the-shōbundō-collection
+layout: page
 permalink: /the-shōbundō-collection.html
 # include CollectionBuilder info at bottom
 credits: false
