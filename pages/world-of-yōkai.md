@@ -33,4 +33,6 @@ In the rest of the pages that make up this section, “The world of yōkai,” w
 
 {% include feature/image.html objectid="coll006" width="100" %}
 
+{% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/collectors-and-oni.html" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/yōkai-collectively.html" color="dark" %}
+
 <!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
