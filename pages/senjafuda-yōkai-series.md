@@ -1,6 +1,6 @@
 ---
 title: A Senjafuda Yōkai Series
-layout: senjafuda-yōkai-series
+layout: page
 permalink: /senjafuda-yōkai-series.html
 # include CollectionBuilder info at bottom
 credits: false
