@@ -49,7 +49,7 @@ This looks like **a closeup of a ghostly face,** but the way the head dominates 
 
 **A three-eyed monster.** Like [the “Great Three-Eyed Priest of Asahina Pass,”](https://social-sin.github.io/collectionbuilder-demo/boardgame.html) this is an example of a mitsume. Interestingly, this specimen is probably also being presented as a priest: the item in its hand is probably the end of a conch shell (actually a ["Triton’s trumpet"](https://en.wikipedia.org/wiki/Charonia_tritonis)), used as a ritual musical instrument in some Buddhist sects.
 
-{% include feature/image.html objectid="coll277" width="100" %}
+{% include feature/image.html objectid="coll301;coll302" width="100" %}
 
 From left to right:
 
