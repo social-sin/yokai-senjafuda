@@ -1,6 +1,6 @@
 ---
 title: Matchbox Label Series
-layout: matchbox-label-series
+layout: page
 permalink: /matchbox-label-series.html
 # include CollectionBuilder info at bottom
 credits: false
