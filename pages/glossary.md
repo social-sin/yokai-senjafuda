@@ -8,6 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+## Glossary
 **Here are some key Japanese terms used throughout this site in discussing senjafuda. Yōkai-related terms are defined on the pages devoted to those yōkai.**
 
 **chō** 丁: The counter for votive slips, especially when used as a unit of size. A standard size single slip (one chō) is about 15 cm high by 5 cm wide. Slips are described as being two chō in size, three chō, etc.
