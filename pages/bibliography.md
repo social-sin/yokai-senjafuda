@@ -8,6 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+## Bibliography
 *Collection of the Japanese colorprinted placards and greeting cards, called Nōsatsu or Senjafuda*, Special Collections and University Archives, University of Oregon Libraries, Eugene, Oregon. ([Find this collection at UO Libraries](https://oregondigital.org/sets/gb-warner-nosatsu).)
 
 *Dai yōkai ten: Oni to yōkai soshite Gegege*. Mitsui Kinen Bijutsukan, 2013.
