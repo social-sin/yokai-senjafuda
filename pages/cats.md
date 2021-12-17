@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## Kappa
+## Cats
 
 {% include feature/image.html objectid="coll015" width="100" %}
 
