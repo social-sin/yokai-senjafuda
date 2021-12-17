@@ -22,7 +22,7 @@ The concept gets even more elastic when we take into account the fact that some 
 
 This page will explore the variety of ways oni manifest themselves in early modern yōkai lore, as seen in senjafuda.
 
-##### Identifying Oni
+### Identifying Oni
 As noted above, oni are generally easy to identify. They have horns and sharp teeth. They’re generally either red or blue/green (ao 青, a color concept that can encompass both blue and green). They’re large and muscular and generally fierce-looking. They often carry weapons; an iron club is a favorite. They’re usually shown dressed in loincloths or skirts made from the skins of tigers or other exotic animals.
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -31,7 +31,7 @@ The slip in the center above is in many ways typical. It shows a red-fleshed oni
 
 The slip on the right shows one significant variation or subcategory in oni iconography: the hannya. The word hannya ultimately derives from the Japanese name of the Buddhist Prajnaparamita sutras. It comes into oni lore as the name of a type of mask used in noh plays. One theory is that the medieval craftsman who designed the mask went by the name Hannya, and so the mask was named after him. In any case, the mask is often white or light-colored and has long horns, devilish eyes, and a wide, toothy smile. In noh plays it’s used to portray women who have been transformed (usually by jealousy or rage) into monsters or demons; such characters often carry a red and white striped staff known as an uchizue, meant to represent an oni’s weapon. So well known did this mask become that often female demons are drawn with faces identical to it, and many modern people use the term hannya to refer to female demons in general.
 
-##### Ogre-Like Oni
+### Ogre-Like Oni
 The three images below show oni in aspects close to what is conjured up by the English word “ogre.”
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -42,7 +42,7 @@ The next two images are prints by Tsukioka Kōgyo depicting the noh play Rashōm
 
 In the first print, the viewer is placed behind the actor playing Tsuna, so that we, like Tsuna, are facing the oni head on. In the play, the oni attacks Tsuna from behind, tearing off his helmet; in the print, the oni holds the helmet to its chest—it’s covered with black hair and has two metal ornaments protruding from the top. In the second print, the helmet is shown in an inset. The contrast in composition between these two prints is striking, one showing the oni towering over the warrior, the other perhaps suggesting a more even match.
 
-##### Demon-Like Oni
+### Demon-Like Oni
 The senjafuda series above is an example of oni appearing in a capacity that fits the English term demon. The series, also discussed on the page “Collectors and oni,” depicts in senjafuda form a hell scroll, a popular medieval way to depict the horrors of hell in an effort to convince mortals not to sin. Medieval and early modern Japan had an amazingly detailed iconography of hell (discussed further by Caroline Hirasawa),[2] and this “scroll” shows many of the best-loved (or most-feared) features of it. After a dedicatory inscription we see a milepost for the River of Three Ways (Sanzu no kawa 三途の川), the border of hell, and then we encounter datsueba 奪衣婆, the “robe-stripping crone,” a figure who relieves the newly dead of their clothes. The next panel is missing from the Starr Collection version of this series, but from the desk and mirror on the next panel we know it features Enma, King of Hell, who sits at his bureaucrat’s desk and judges the dead before sending them off to the appropriate punishment. A pale dead man kneels before the desk pleading, while another behind him is being dragged off by a blue-skinned oni.
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -53,7 +53,7 @@ The next several panels show oni in their element, tormenting sinners. We see re
 
 Above are two more images of oni in hell. The first (also discussed on the “Collectors and oni” page) focuses on King Enma at his desk. Next to the desk stands Seeing Eye and Sniffing Nose, which help Enma discern people’s misdeeds, and a giant mirror that shows sinners what they’re to be punished for. Datsueba can be seen in the background, along with a pool of blood, a boiling cauldron, and other standard features of hell scenes. Of note are the two great bluish oni on the left. One is staring at the mirror, while the other is seems to be looking out of the picture at us. The second image (also discussed on the “Yōkai, collectively” page) is an ukiyo-e diptych that features a comic reversal of the standard hell scene. Here a band of legendary heroes has come to hell and taken over, giving Enma and various oni a taste of their own medicine.
 
-##### King Enma
+### King Enma
 King Enma is not himself an oni. An Indian deity absorbed into Buddhism, he was originally conceived of as a heavenly being before assuming his now familiar role as king of hell.  Similarly, as Buddhism moved across East Asia the conception of what a king of hell would look like and do merged with Chinese beliefs about post-death judgments until Enma came to be called a king but sit as a judge. In Japan, he is invariably depicted wearing Chinese style clothing and surrounded by Chinese style furnishings and trappings of officialdom. (See Hirasawa [2] for more details about Enma.) He is also often depicted as red-faced, at least in senjafuda, suggesting a visual association with the oni that usually surround him.
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -64,7 +64,7 @@ Depictions of Enma are almost as popular in senjafuda as depictions of oni prope
 
 The first slip depicts Enma seated on his throne, staring off into the distance. The incense burner on the table in front of him tips the viewer off that this isn’t a picture of the “real” Enma, but rather an icon of him. Such icons are common in Buddhist temples in Japan, and the series title of this slip (“Annual Observances in Edo”) suggests that this is the icon found in the no-longer-extant Enma Hall in Asakusa. The second slip is doing the same thing, commemorating a “Famous Spot in Naniwa,” i.e., Osaka, the Enma Hall at Gappōgatsuji. The rest of the slips depict Enma (or Enma statues) interacting with senjafuda culture in various ways: holding up a votive slip in lieu of his standard flat wooden scepter, or maintaining his famous scowl in spite of slips being festooned on his shoulders, knees, or even nose.
 
-##### Thunder Gods
+### Thunder Gods
 The four images below show not oni per se, but thunder gods, or raijin 雷神. But thunder gods, along with the wind gods or fūjin 風神 with which they’re sometimes paired (as in these famous 17th century screen paintings by Tawaraya Sōtatsu), are always depicted in ways that are hardly if at all distinguishable from oni. This may seem strange at first, given the strong association of oni with hell that we’ve just been exploring, but we should note that even in their capacity as hell’s guards, oni aren’t evil in the way Western culture envisions demons to be. Oni aren’t tempters, trying to entice people to hell; rather, they’re simply carrying out the necessary task of punishing sinners. If anything, they can be seen as serving Buddhist truth, rather than opposing it. This means that we shouldn’t perceive any contradiction between the same iconography being applied to oni and gods. Thunder is, of course, a fundamentally frightening phenomenon, so it’s doubly appropriate that when it takes a visible form it be monstrous.
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -73,7 +73,7 @@ In addition to the standard attributes of red skin, horns, and tiger-skin wrap, 
 
 The third and fourth images are senjafuda playfully imagining what thunder gods can do from their vantage in the clouds. The first shows one fishing for daimei fuda; it may remind a modern viewer of certain carnival games. The second one shows a thunder god leering at the derriere of someone crawling into a mosquito net.
 
-##### Repelling Oni
+### Repelling Oni
 If the conception of oni is broad enough and flexible enough to encompass gods, it’s still fair to say that on a basic level oni are perceived as being threatening and monstrous. It’s in that capacity that oni figure in a centuries-old custom that, judging by senjafuda, people had a lot of affection for in the early 20th century (many still do today, for that matter). Setsubun 節分, a holiday observing the beginning of spring (formerly coinciding with the lunar New Year), was observed by tossing a handful of toasted soybeans while saying “oni wa soto, fuku wa uchi”—“out with demons, in with good fortune.” Oni in the saying can be taken metaphorically, to mean bad fortune or bad influences, but was often represented literally—in some places, the beans were thrown at a person wearing an oni mask, to chase him away.
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -88,7 +88,7 @@ A creepier take on the same idea is found in the next image, a triptych by Tsuki
 
 The final image is a senjafuda announcing a women’s senjafuda exchange meeting to take place in the first hours of the New Year. Oni can be seen fleeing a girl holding a votive slip, rather than a man throwing beans. Other slips imagining an intersection of setsubun customs and senjafuda are discussed on the “Collectors and oni” page.
 
-##### Shōki
+### Shōki
 In the slips depicting setsubun traditions, oni are usually present but deemphasized, reduced in size or dignity or both, as in the Kyōsai print. Their function in setsubun traditions, after all, is to be chased away—they represent the baleful influences and ill fortune we wish to be free of. Oni play a similar role in the images above, which all depict a figure known as Shōki 鍾馗 (Ch. Zhong Kui), a demon queller of Chinese legend. Like King Enma, then, Shōki himself is no demon, but is always depicted in the company of demons, and displays an oni-like ferocity. Shōki iconography was popular in early modern Japan (and therefore in senjafuda) both for his obviously charismatic ferocity and because images of Shōki were used as charms to ward off illness, particularly smallpox.
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -109,7 +109,7 @@ The next two slips both show banners depicting Shōki, which were often displaye
 
 The last image of Shōki above (further discussed on the “Nostalgia” page) may be meant to suggest a hōsōe. It’s another depiction of the Kanda Festival float showing Shōki.
 
-##### Ōtsue
+### Ōtsue
 The images above relate to another type of religious folk art featuring oni: Ōtsue or “Ōtsu pictures.” The name comes from the fact that they were specialties of the town of Ōtsu on the southern edge of Lake Biwa; this was a town on the Tōkaidō, the main road connecting Edo and Kyoto, so any traveler between the country’s two biggest population centers would pass through it. Ōtsue were simple pictures, often with a religious theme, sold to tourists.
 
 As popular souvenirs throughout the Edo period, their distinctively primitive imagery became widely recognizable, as did their repertoire of stock images. They were also seen as important examples of early printed art—they were often made with simple printed outlines to which color was applied by hand. For all these reasons, they were bound to catch the antiquarian eye of the senjafuda collector. This included Frederick Starr himself, as several examples of Ōtsue made their way into his collection, including the first three images below.
@@ -126,7 +126,7 @@ The last two images repurpose the Ōtsue oni-priest for humorous purposes. In th
 
 In the second image, an oni-priest kneels on a red carpet in the manner of a rakugo storyteller greeting his audience; the mallet for his gong is placed in front of him much as a storyteller would place his folding fan. The art here is closer to the coarse brushwork of the typical Ōtsue, but the facial expression is lively and personable, suggesting a storyteller just about to crack his first joke.
 
-##### A Day in the Life of Oni
+### A Day in the Life of Oni
 The slips below are a series prepared for an exchange meeting held on February 3, 1925, according to the first slip. The theme isn’t specified, and it’s not immediately apparent from the first slip itself, which shows a Buddhist figure scooping up dead souls with a fishing net.
 
 {% include feature/image.html objectid="coll243" width="100" %}
@@ -183,13 +183,13 @@ An oni boy sitting on an ox, playing a flute (this was a popular motif in Chines
 
 An oni putting out the fire on his flaming cart, since he doesn’t need it anymore.
 
-{% include feature/button.html text="Click to view more tengu" link="https://social-sin.github.io/collectionbuilder-demo/browse.html#Tengu" color="info" %}
+{% include feature/button.html text="Click to view more oni" link="https://social-sin.github.io/collectionbuilder-demo/browse.html#Oni" color="info" %}
 
 ##### References
 [1] The most comprehensive treatment of oni in English is Noriko T. Reider, *Japanese Demon Lore: Oni from Ancient Times to the Present* (Logan, UT: Utah State University Press, 2010).
 
 [2] Caroline Hirasawa, “The Inflatable, Collapsible Kingdom of Retribution: A Primer on Japanese Hell Imagery and Imagination,” *Monumenta Nipponica* 63.1 (Spring, 2008), pp. 1-50.
 
-{% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/foxes.html" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/oni.html" color="dark" %}
+{% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/tengu.html" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/glossary.html" color="dark" %}
 
 <!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
