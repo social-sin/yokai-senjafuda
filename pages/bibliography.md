@@ -55,4 +55,4 @@ Yumoto Koichi. *Yokai Wonderland: YUMOTO Koichi Collection*. PIE International, 
 
 Yumoto Koichi. *Yokai Museum: The Art of Japanese Supernatural Beings from YUMOTO Koichi Collection*. PIE International, 2013.
 
-{% if page.credits == true %}{% include cb/credits.html %}{% endif %}
+<!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
