@@ -17,7 +17,7 @@ This includes the two slips above. The first ([also discussed in connection with
 
 The second slip also shows a fox parade, or rather the front end of it. We can see the lantern bearers, assorted attendants, and at the right edge of the slip a palanquin with a foxy face peeking out through the window. The procession is cutting behind a shrine gate, which frames the name of the business being advertised by this slip: [the Unohi-za, a small theater that stood in the Shukuin-chō area of the city of Sakai](https://www.lib-sakai.jp/kyoudo/sakai_taikan/sakaiTaikan_24.htm), south of Osaka. Note that this slip, while found among the Starr senjafuda, does not have the chō outlines visible in the background that a multi-chō senjafuda normally would (compare with the first slip). It may in fact simply be a flyer for this theater.
 
-##### Trickster Foxes
+### Trickster Foxes
 The five slips below highlight two aspects of the fox as magical being. One is its proclivity for enchanting humans for their own amusement. The other is its connection with Inari worship. Often when foxes are depicted in their capacity as messengers of the god, their mischievous nature is downplayed, but not here. In each case these foxes are playing their tricks on or very near shrine grounds. And in fact the stated theme of the 1927 series from which the first four come is: “Famous Inari Festivals of Edo and People Being Bewitched by Foxes.” In the senjafuda imagination, at least, there’s no distinction between godly foxes and trickster foxes.
 
 {% include feature/image.html objectid="coll029;coll030;coll031;coll032" width="100" %}
@@ -36,7 +36,7 @@ The fifth slip is unrelated to the first four but similarly shows foxes working 
 
 In each case, what’s worth noting is how harmless these foxes’ pranks are. Some foxes of legend use their powers in more vicious ways, but these foxes are hurting nothing more than their victims’ dignity. It’s all in good fun, at least in these slips.
 
-##### Foxes in Kabuki
+### Foxes in Kabuki
 The first two slips below show magical foxes in the more dramatic form that’s typical of their appearances in kabuki plays, where their shape-shifting abilities are utilized to add an air of the uncanny to gloriously melodramatic plots.
 
 {% include feature/image.html objectid="coll064;coll037;coll066" width="100" %}
@@ -49,7 +49,7 @@ The second slip is part of a series in which each slip presents two smaller imag
 
 The third slip above depicts a kabuki play that has nothing to do with foxes. The play is the famed [*Wait a Moment! (Shibaraku 暫)*](https://en.wikipedia.org/wiki/Shibaraku), a showcase for the actors in the hereditary Ichikawa Danjūrō line. The costume, with its oversized sleeves emblazoned with the actor’s family crest three concentric squares, is particularly famous. This slip shows a fox taking the place of the actor; in fact it’s [a paper fox puppet of the type discussed on the “Collecting and Appreciating” page](https://social-sin.github.io/collectionbuilder-demo/collecting-and-appreciating.html). As such it doesn’t relate to a stage depiction of a shape-shifting fox, but rather approaches the intersection of senjafuda, kabuki, and fox beliefs from a different angle.
 
-##### Fox-Priests
+### Fox-Priests
 The votive slip below relates to a shape-shifting fox popularized not in kabuki but in kyōgen, a comic theater tradition dating back to the medieval period. The fox is known as [Hakuzōsu and features in a play called *Fox-Catching (Tsurigitsune 釣狐)*](https://en.wikipedia.org/wiki/Hakuz%C5%8Dsu). The play centers on a man who traps foxes. A shape-shifting fox assumes the form of the man’s uncle, a priest called Hakuzōsu. In this guise he tries to put a stop to the trapper’s activities by scaring him with tales of fox yōkai. But when it sees the deep-fried rat the trapper has been using as bait for his traps, the fox can’t help himself: he takes the bait ([an excerpt from this passage in the play can be viewed here](http://www2.ntj.jac.go.jp/dglib/contents/learn/edc12/enmoku/tsurigitsune.html)). In this way the play, like most kyōgen, moves through a series of comic reversals between hunter and priest/fox, ending in a stalemate (the fox manages to escape from the trap).
 
 The slip below is part of a series called “Shadows of the Stage” that shows scenes from plays in silhouette—the viewer is being challenged to recognize the play and the scene from a mere shadow on a screen ([this series is also discussed on the “Cats” page](https://social-sin.github.io/collectionbuilder-demo/cats.html)). This slip shows the fox from Fox-Catching in profile, wearing a monk’s robes and hood and carrying a walking stick, but in an intermediate stage of transformation revealing its true nature as a fox.
