@@ -37,7 +37,7 @@ In light of the previous two examples, it seems likely that the oni on the fourt
 
 The last slip above is a large (8-chō) depiction of Enma, King of Hell, by famed Meiji-era artist Kawanabe Kyōsai. Instead of his characteristic flat scepter, Enma holds a senjafuda.
 
-##### Pasting on Enma
+### Pasting on Enma
 Two types of oni interaction with senjafuda practitioners deserve special mention. One is how statues of oni—almost always Enma the King of Hell, actually—are depicted within senjafuda as targets of pasting activity. The act of pasting a slip on a statue would have been particularly appealing to some aficionados because of the daring and irreverence it required; celebrating (or imagining) it in a senjafuda was therefore a celebration of the peculiarly iconoclastic nature of senjafuda devotion.
 
 {% include feature/image.html objectid="coll020;coll021;coll019" width="100" %}
@@ -48,7 +48,7 @@ The second slip represents a statue of Enma with a senjafuda pasted onto his nos
 
 The third slip is a gargantuan 32-chō image of a statue of Enma festooned with senjafuda.
 
-##### Oni in Hell
+### Oni in Hell
 The other special type of oni interaction with senjafuda has to do with the oni’s role as tormentors in the Buddhist conception of hell. As we have seen, senjafuda were originally a form of worship, and therefore a tool of devotion. But since temples and shrines (and sometimes governmental authorities) frowned on them, they were also a form of transgressive play. This means that senjafuda practitioners were always conscious of being in an ambiguous relationship to organized religion, an ambiguity captured in the image of the tengu as well as in the depictions of King Enma defaced (literally in some cases) by senjafuda. Perhaps the ultimate expression of senjafuda self-consciousness comes in images of pasters being punished in hell for their activities. At least three versions of this theme may be found in the UO’s collection of senjafuda.
 
 The most straightforward is this one, a scene of Enma judging sinners newly arrived in hell. In the top left corner the newly dead are relieved of their clothes by Datsueba (the Clothes-Stripping Crone) on the banks of the Sanzu River, which they must cross to enter the afterworld. In the middle of the image is Enma at his desk, reading from a scroll. At Enma’s shoulder is the grotesque Seeing Eye and Sniffing Nose, which help him discern people’s misdeeds. Assorted sinners and oni crowd the space in front of Enma’s desk, but the key to the image is the mirror on the left. Enma’s mirror displays to sinners the sins in life that they’ll be punished for in death. In this mirror we see senjafuda practitioners: one holding a pole-mounted brush, and another writing on a temple gate. The message is clear: these men are being punished for defacing temple property. But another message is equally clear: the people who commissioned this image are endlessly entertained by the prospect. This image’s combination of faith and irreverence perfectly encapsulates senjafuda culture.
