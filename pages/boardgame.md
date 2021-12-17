@@ -25,7 +25,7 @@ For an identification of each yōkai on the gameboard, see below the image.
 
 {% include feature/image.html objectid="coll309" width="100" %}
 
-##### The bottom row, left to right
+### The bottom row, left to right
 **“The Mountain Man of Mount Myōkō.”** A yamaotoko; a gigantic human living in remote mountainous areas.
 
 **“The Dog-God and White Child of Kōshū.”** Kōshū was another name for Ōmi. An inugami or “dog-god” was thought to be the yōkai that resulted from certain arcane rituals; it could be used to possess or torment an enemy. Depictions of the inugami often give it a servant or sidekick known as a shirachigo or “white child”; these are usually drawn with human faces, but this one is drawn as a puppy.
@@ -36,7 +36,7 @@ For an identification of each yōkai on the gameboard, see below the image.
 
 **“The Snow Lady of Naka-no-Kawachi.”** There are several locales known as Kawachi. The yōkai here labeled yuki jorō is more commonly known today as yuki onna (“snow woman”); she haunts snowy climes and combines both idealized feminine beauty and the treachery of a mountain snowstorm. She was popularized (in both Japan and the West) by [Lafcadio Hearn](https://en.wikipedia.org/wiki/Lafcadio_Hearn)’s story of the same name in [*Kwaidan*](https://en.wikipedia.org/wiki/Kwaidan:_Stories_and_Studies_of_Strange_Things) (1904), and [its subsequent adaptation](https://www.youtube.com/watch?v=01Quf33IsvQ) in the [film of the same name (1964) by Kobayashi Masaki](https://en.wikipedia.org/wiki/Kwaidan_(film)).
 
-##### Second row from bottom, left to right
+### Second row from bottom, left to right
 **“The Sea-Monk of the Genkai Sea.”** The Genkai Sea (Genkai-nada) is an area of ocean off the northwest coast of Kyushu. The umibōzu or “sea-monk” is a well-known oceanic yōkai often pictured as a huge shadowy or black figure that wrecks ships.
 
 **“The Filth-Licker of Shedbottom Valley.”** Sokokuradani is probably a made-up place name, so we’ve translated it literally as “Shedbottom Valley.” The location depicted is actually a public bath, and the filth-licker (akaname) is reaching excitedly for a wash-bucket in order to lick up the soap scum or dirt left behind in it.
@@ -53,7 +53,7 @@ For an identification of each yōkai on the gameboard, see below the image.
 
 **“The Echo.”** A seemingly straightforward monsterfication of the echo phenomenon, the yamabiko doesn’t seem to have been represented in illustrations before the mid-Edo Period. Toriyama Sekien depicts it in a vaguely canine manner, no doubt inspiring Yoshikazu’s depiction here.
 
-##### Second row from top, left to right
+### Second row from top, left to right
 **“The Pestle of Mortar Mountain.”** We appear to be in a tsukumogami world here. The pestle (rengibō) appears to be a normal pestle that has sprouted wings and perhaps antennae. “Mortar Mountain” in the background is an overturned mortar.
 
 **“The Leerer at the Skylight.”** This depiction of a shōkera is clearly indebted to Toriyama Sekien’s. The origins of the creature are obscure, but Sekien’s visualization of it, echoed here, is scary enough: a creepy crawler peering in through a skylight.
@@ -70,7 +70,7 @@ For an identification of each yōkai on the gameboard, see below the image.
 
 **“The Belly-Drum of Tanpo Moor.”** The “belly-drum” (haratsuzumi) is, of course, a tanuki happily doing his thing. The word here translated "moor"—hara 原—is a homonym for "belly"—hara 腹. This square contains an extra inscription instructing players to “lose one turn because you injure the skin of your belly.”
 
-##### Top row, left to right
+### Top row, left to right
 **“The Devil Lurking in the Abandoned Temple.”** This square depicts a nobusuma (written, as is often the case on this sugoroku board, with characters that suggest an alternative interpretation), and it’s a rare case of Yoshikazu departing from Sekien’s precedent. Sekien identifies the nobusuma as a flying squirrel (musasabi) and draws it accordingly, but Yoshikazu’s teacher, the influential Utagawa Kuniyoshi 歌川国芳 (1798-1861), had [depicted the nobusuma as a fearsome batlike creature](https://ukiyo-e.org/image/artofjapan/02134185), and that’s what Yoshikazu gives us here.
 
 **“The Overlooker Initiate.”** An “initiate” or nyūdō is someone who has “entered the Way,” or taken the first steps toward Buddhist priesthood but gone no farther; it was a common state for a retired man in premodern Japan. Since old things and priests were always fair game for monsterfication it’s no surprise that the nyūdō has a presence in yōkai lore. The “overlooker” or mikoshi nyūdō was one of the most popular of early modern yōkai. Originally it seems to have been simply a very tall priest-like figure that grew taller the more you looked at it, but it was also often depicted as having (like the rokurokubi) an extendable neck, and its name implies the ability to peer over your shoulder. Sekien depicted it peeking out from behind a stand of trees. Here the head almost fills the frame; the bulging flesh beneath the beard suggests the coils of an elongated neck.
