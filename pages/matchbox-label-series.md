@@ -23,7 +23,7 @@ While most matchbox labels were made by modern printing processes, some were woo
 
 The ghosts and monsters depicted on these labels are not identified, but they’re clearly influenced by Edo period depictions of yōkai such as the sugoroku board discussed elsewhere. Their format is reminiscent both of senjafuda and of another variety of woodblock-printed toy popular in the Edo period, iroha karuta. [Karuta are discussed elsewhere on this site](https://social-sin.github.io/collectionbuilder-demo/collectors-and-tengu.html); here we’ll note that [one variety of karuta, produced as late as the early 20th century, used yōkai as the visual motif](https://edoflourishing.blogspot.com/2017/08/edo-yokai-karuta-game.html). Karuta’s dimensions and proportions weren’t so different from those of matchbox labels, which may have played a part in the design of this series of labels.
 
-##### Discussion of individual yōkai in the matchbook labels
+### Discussion of individual yōkai in the matchbook labels
 
 {% include feature/image.html objectid="coll293;coll294;coll295;coll296" width="100" %}
 
