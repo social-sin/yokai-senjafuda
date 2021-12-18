@@ -45,4 +45,6 @@ credits: false
 
 **ukiyo-e** 浮世絵: Literally “picture of the floating world.” Woodblock printed pictures that often depicted floating-world subjects (popular celebrities, plays, stories, scenes). Such pictures not only documented and celebrated the floating world, they were part of it, since they were inexpensive and widely available, meaning they were an easy way for many people to take home a piece of the floating world. Kōkanfuda were often designed and printed by the same artists and craftspeople who worked in the ukiyo-e industry, and frequently shared pictorial motifs.
 
+{% include feature/button.html text="Prev" link="https://social-sin.github.io/collectionbuilder-demo/oni.html" color="dark" %}{% include feature/button.html text="Next" link="https://social-sin.github.io/collectionbuilder-demo/bibliography.html" color="dark" %}
+
 <!-- {% if page.credits == true %}{% include cb/credits.html %}{% endif %} -->
