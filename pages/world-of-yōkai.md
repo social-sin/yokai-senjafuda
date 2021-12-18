@@ -1,5 +1,5 @@
 ---
-title: World of Yōkai
+title: The World of Yōkai
 layout: world-of-yōkai
 permalink: /world-of-yōkai.html
 # include CollectionBuilder info at bottom
